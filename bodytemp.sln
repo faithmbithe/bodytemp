@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "bodytemp", "bodytemp\bodytemp.vbproj", "{26482AE9-BC26-4D8B-9431-2C94C0EAE32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26482AE9-BC26-4D8B-9431-2C94C0EAE32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26482AE9-BC26-4D8B-9431-2C94C0EAE32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26482AE9-BC26-4D8B-9431-2C94C0EAE32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26482AE9-BC26-4D8B-9431-2C94C0EAE32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F0D4B6A-7D65-424E-B3EC-D98C1F41206E}
+	EndGlobalSection
+EndGlobal
